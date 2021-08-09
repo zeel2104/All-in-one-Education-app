@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9deeb152-3cc4-476e-ae57-d8970869ead3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ixO0fbVsJHesQ4DhOkTm9Uj8yU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../iwpproject/get-events.php" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\edukit\teacher_pages" />
+      <recent name="C:\xampp\htdocs\edukit" />
+      <recent name="C:\xampp\htdocs\edukit\student_pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\edukit\student_pages" />
+      <recent name="C:\xampp\htdocs\edukit\teacher_pages" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9deeb152-3cc4-476e-ae57-d8970869ead3" name="Default Changelist" comment="" />
+      <created>1602845554654</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602845554654</updated>
+      <workItem from="1602845556419" duration="13000" />
+      <workItem from="1602847155737" duration="18986000" />
+      <workItem from="1603293142200" duration="682000" />
+      <workItem from="1603558421398" duration="40888000" />
+      <workItem from="1603682511748" duration="49191000" />
+      <workItem from="1603859830448" duration="9610000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603716935124">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1603716935124" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1603884399108">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1603884399108" />
+    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1603883292780">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1603883292780" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1602849820890">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1602849820890" />
+    <state x="43" y="51" width="1251" height="668" key="dock-window-1" timestamp="1603566540245">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="43" y="51" width="1251" height="668" key="dock-window-1/0.0.1280.680@0.0.1280.680" timestamp="1603566540245" />
+  </component>
+</project>
